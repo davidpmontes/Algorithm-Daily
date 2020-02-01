@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 30 | [Minimum Absolute Difference in BST](/LeetCode/530-Minimum-Absolute-Difference-in-BST) | [leetcode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | |
 | 12 | | | |
 | 11 | | | |
 | 10 | | | |
