@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 33 | [3Sum](LeetCode/15-3Sum) | [leetcode 15](https://leetcode.com/problems/3sum/)| |
 | 32 | [House Robber](/LeetCode/198-House-Robber) | [leetcode 198](https://leetcode.com/problems/house-robber/)| |
 | 31 | [Best Time to Buy and Sell Stock](/LeetCode/121-Best-Time-to-Buy-and-Sell-Stock) | [leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |
 | 30 | [Minimum Absolute Difference in BST](/LeetCode/530-Minimum-Absolute-Difference-in-BST) | [leetcode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | |
