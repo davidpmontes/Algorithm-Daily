@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 31 | [Best Time to Buy and Sell Stock](/LeetCode/530-Minimum-Absolute-Difference-in-BST) | [leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |
+| 31 | [Best Time to Buy and Sell Stock](/LeetCode/121-Best-Time-to-Buy-and-Sell-Stock) | [leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |
 | 30 | [Minimum Absolute Difference in BST](/LeetCode/530-Minimum-Absolute-Difference-in-BST) | [leetcode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | |
 | 29 | Two Sum IV | [leetcode 653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| |
 | 28 | Average of Levels in Binary Tree | [leetcode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | |
