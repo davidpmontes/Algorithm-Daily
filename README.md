@@ -9,16 +9,33 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 30 | [Minimum Absolute Difference in BST](/LeetCode/530-Minimum-Absolute-Difference-in-BST) | [leetcode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | |
-| 12 | | | |
-| 11 | | | |
-| 10 | | | |
-| 9 | | | |
-| 8 | | | |
-| 7 | | | |
-| 6 | | | |
-| 5 | | | |
-| 4 | | | |
+| 31 | [Minimum Absolute Difference in BST](/LeetCode/530-Minimum-Absolute-Difference-in-BST) | [leetcode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | |
+| 30 | Two Sum IV | [leetcode 653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| |
+| 29 | Average of Levels in Binary Tree | [leetcode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | |
+| 28 | Sum of Root to Leaf Binary Numbers | [leetcode 1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | |
+| 27 | Increasing Order Search Tree | [leetcode 897](https://leetcode.com/problems/increasing-order-search-tree/) | |
+| 26 | Univalued Binary Tree | [leetcode 965](https://leetcode.com/problems/univalued-binary-tree/) | |
+| 25 | Longest Palindromic Substring | [leetcode 5](https://leetcode.com/problems/longest-palindromic-substring/) | |
+| 24 | Minimum Depth of Binary Tree | [leetcode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | |
+| 23 | Binary Tree Preorder Traversal | [leetcode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | |
+| 22 | N-ary Tree Preorder Traversal | [leetcode 589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | |
+| 21 | N-ary Tree Postorder Traversal | [leetcode 590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | |
+| 20 | Coin Change | [leetcode 322](https://leetcode.com/problems/coin-change/) | |
+| 19 | License Key Formatting | [leetcode 482](https://leetcode.com/problems/license-key-formatting/) | |
+| 18 | Logger Rate Limiter | [leetcode 359](https://leetcode.com/problems/logger-rate-limiter/) | |
+| 17 | Bulls and Cows | [leetcode 299](https://leetcode.com/problems/bulls-and-cows/) | |
+| 16 | Backspace String Compare | [leetcode 844](https://leetcode.com/problems/backspace-string-compare/) | |
+| 15 | Remove Duplciates from Sorted List | [leetcode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | |
+| 14 | Partition Array Into Three Parts with Equal Sum | [leetcode 1013](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | |
+| 13 | Convert Sorted Array to Binary Search Tree | [leetcode 108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | |
+| 11 | Valid Mountain Array | [leetcode 941](https://leetcode.com/problems/valid-mountain-array/) | |
+| 10 | Add Two Numbers | [leetcode 2](https://leetcode.com/problems/add-two-numbers/) | |
+| 9 | Leaf-Similar Trees | [leetcode 872](https://leetcode.com/problems/leaf-similar-trees/) | |
+| 8 | Find All Duplicates in an Array | [leetcode 442](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | |
+| 7 | Add Digits | [leetcode 258](https://leetcode.com/problems/add-digits/) | |
+| 6 | Top K Frequent Elements | [leetcode 347](https://leetcode.com/problems/top-k-frequent-elements/) | |
+| 5 | Perfect Number | [leetcode 507](https://leetcode.com/problems/perfect-number/)| |
+| 4 | Number of Islands | [leetcode 200](https://leetcode.com/problems/number-of-islands/)| |
 | 3 | Two Sum | [leetcode 2](https://leetcode.com/problems/two-sum/) | |
 | 2 | Compare Strings by Frequency of the Smallest Character | [leetcode 1170](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | |
 | 1 | Path with Maximum Gold | [leetcode 1219](https://https://leetcode.com/problems/path-with-maximum-gold/) | |
