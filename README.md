@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 37 | [Ransom Note](LeetCode/383-Ransom-Note) | [leetcode 383](https://leetcode.com/problems/ransom-note/) | |
 | 36 | [Validate Binary Search Tree](LeetCode/98-Validate-Binary-Search-Tree) | [leetcode 98](https://leetcode.com/problems/validate-binary-search-tree/) | |
 | 35 | [Generate Parentheses](LeetCode/22-Generate-Parentheses) | [leetcode 22](https://leetcode.com/problems/generate-parentheses/) | |
 | 34 | [Meeting Rooms](LeetCode/252-Meeting-Rooms) | [leetcode 252](https://leetcode.com/problems/meeting-rooms/) | |
