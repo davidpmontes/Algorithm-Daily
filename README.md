@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 35 | [Generate Parentheses](LeetCode/22-Generate-Parentheses) | [leetcode 22](https://leetcode.com/problems/generate-parentheses/) | |
 | 34 | [Meeting Rooms](LeetCode/252-Meeting-Rooms) | [leetcode 252](https://leetcode.com/problems/meeting-rooms/) | |
 | 33 | [3Sum](LeetCode/15-3Sum) | [leetcode 15](https://leetcode.com/problems/3sum/) | |
 | 32 | [House Robber](/LeetCode/198-House-Robber) | [leetcode 198](https://leetcode.com/problems/house-robber/) | |
