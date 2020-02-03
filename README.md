@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 36 | [Validate Binary Search Tree](LeeCode/98-Validate-Binary-Search-Tree) | [leetcode 98](https://leetcode.com/problems/validate-binary-search-tree/) | |
+| 36 | [Validate Binary Search Tree](LeetCode/98-Validate-Binary-Search-Tree) | [leetcode 98](https://leetcode.com/problems/validate-binary-search-tree/) | |
 | 35 | [Generate Parentheses](LeetCode/22-Generate-Parentheses) | [leetcode 22](https://leetcode.com/problems/generate-parentheses/) | |
 | 34 | [Meeting Rooms](LeetCode/252-Meeting-Rooms) | [leetcode 252](https://leetcode.com/problems/meeting-rooms/) | |
 | 33 | [3Sum](LeetCode/15-3Sum) | [leetcode 15](https://leetcode.com/problems/3sum/) | |
