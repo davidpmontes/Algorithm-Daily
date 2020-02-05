@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 39 | Find Closets Value in Binary Search Tree, Branch Sums, Invert Binary Tree | AlgoExpert | |
 | 38 | [Add Two Numbers](LeetCode/2-Add-Two-Numbers) | [leetcode 1](https://leetcode.com/problems/add-two-numbers/) | |
 | 37 | [Ransom Note](LeetCode/383-Ransom-Note) | [leetcode 383](https://leetcode.com/problems/ransom-note/) | |
 | 36 | [Validate Binary Search Tree](LeetCode/98-Validate-Binary-Search-Tree) | [leetcode 98](https://leetcode.com/problems/validate-binary-search-tree/) | |
