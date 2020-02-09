@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 41 | BST Traversal | AlgoExpert | |
+| 41 | BST Traversal, Maximum Subset Sum With No Adjacent Elements | AlgoExpert | |
 | 40 | Binary Search Tree Construction, Validate BST, Depth-first Search, Nth Fibonacci | AlgoExpert | |
 | 39 | Find Closets Value in Binary Search Tree, Branch Sums, Invert Binary Tree | AlgoExpert | |
 | 38 | [Add Two Numbers](LeetCode/2-Add-Two-Numbers) | [leetcode 1](https://leetcode.com/problems/add-two-numbers/) | |
