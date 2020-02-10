@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 42 | Number of Ways to Make Change | AlgoExpert | |
+| 42 | Number of Ways to Make Change, Min Number of coins for Change | AlgoExpert | |
 | 41 | BST Traversal, Maximum Subset Sum With No Adjacent Elements | AlgoExpert | |
 | 40 | Binary Search Tree Construction, Validate BST, Depth-first Search, Nth Fibonacci | AlgoExpert | |
 | 39 | Find Closets Value in Binary Search Tree, Branch Sums, Invert Binary Tree | AlgoExpert | |
