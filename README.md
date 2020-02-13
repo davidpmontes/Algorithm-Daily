@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 43 | Guess Number Higher or Lower | Leetcode 374 | |
 | 42 | Number of Ways to Make Change, Min Number of coins for Change, Three Number Sum | AlgoExpert | |
 | 41 | BST Traversal, Maximum Subset Sum With No Adjacent Elements | AlgoExpert | |
 | 40 | Binary Search Tree Construction, Validate BST, Depth-first Search, Nth Fibonacci | AlgoExpert | |
