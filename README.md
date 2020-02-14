@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 44 | First Bad Version, Longest Substring Without Repeating Characters, First Unique Character in a String, Find Minimum In Rotateed Sorted Array | Leetcode 278, Leetcode 3, Leetcode 387, Leetcode 153 | |
+| 44 | First Bad Version, Longest Substring Without Repeating Characters, First Unique Character in a String, Find Minimum In Rotateed Sorted Array, Search in Rotated Sorted Array | Leetcode 278, Leetcode 3, Leetcode 387, Leetcode 153, Leetcode 33 | |
 | 43 | Guess Number Higher or Lower | Leetcode 374 | |
 | 42 | Number of Ways to Make Change, Min Number of coins for Change, Three Number Sum | AlgoExpert | |
 | 41 | BST Traversal, Maximum Subset Sum With No Adjacent Elements | AlgoExpert | |
