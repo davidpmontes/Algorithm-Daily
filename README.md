@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 47 | Queue Reconstruction by Height | Leetcode 406 | |
+| 47 | Pascal's Triangle II, Maximum Depth of Binary TreeQueue Reconstruction by Height | Leetcode 406, Leetcode 119, Leetcode 104 | |
 | 46 | Permutations | Leetcode 46 | |
 | 45 | Reverse Linked List, Search in a Binary Search Tree | Leetcode 206, Leetcode 700 | |
 | 44 | First Bad Version, Longest Substring Without Repeating Characters, First Unique Character in a String, Find Minimum In Rotateed Sorted Array, Search in Rotated Sorted Array, Swap Nodes in Pairs | Leetcode 278, Leetcode 3, Leetcode 387, Leetcode 153, Leetcode 33, Leetcode 24 | |
