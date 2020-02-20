@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 49 | Min Number of Jumps, Water Area, Knapsack Problem, Binary Search | AlgoExpert, AlgoExpert, AlgoExpert, AlgoExpert | |
+| 49 | Min Number of Jumps, Water Area, Knapsack Problem, Binary Search, Find Three Largest Numbers | AlgoExpert, AlgoExpert, AlgoExpert, AlgoExpert, AlgoExpert | |
 | 48 | Levenshtein Distance, Runner-Up Score, Max Sum Increasing Subsequence | AlgoExpert, HackerRank, AlgoExpert | |
 | 47 | Pascal's Triangle II, Maximum Depth of Binary TreeQueue Reconstruction by Height, Reverse Linked List | Leetcode 406, Leetcode 119, Leetcode 104, Leetcode 206 | |
 | 46 | Permutations | Leetcode 46 | |
