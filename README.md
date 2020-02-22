@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 51 | Preorder, Inorder, Postorder Traversal Recursive and Iterative | Leetcode Binary Tree: Traverse a Tree | |
 | 50 | Palindrome Check, Suffix Tree Construction, Implement Trie (Prefix Tree) | AlgoExpert, AlgoExpert, Leetcode 208 | |
 | 49 | Min Number of Jumps, Water Area, Knapsack Problem, Binary Search, Find Three Largest Numbers | AlgoExpert, AlgoExpert, AlgoExpert, AlgoExpert, AlgoExpert | |
 | 48 | Levenshtein Distance, Runner-Up Score, Max Sum Increasing Subsequence | AlgoExpert, HackerRank, AlgoExpert | |
