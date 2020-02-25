@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 53 | Push Dominoes | Leetcode 838 | |
 | 52 | Validate Binary Search Tree | Leetcode 98 | |
 | 51 | Preorder, Inorder, Postorder Traversal Recursive and Iterative | Leetcode Binary Tree: Traverse a Tree | |
 | 50 | Palindrome Check, Suffix Tree Construction, Implement Trie (Prefix Tree) | AlgoExpert, AlgoExpert, Leetcode 208 | |
