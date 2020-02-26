@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 54 | Product of Array Except Self | Leetcode 238 | |
 | 53 | Push Dominoes | Leetcode 838 | |
 | 52 | Validate Binary Search Tree | Leetcode 98 | |
 | 51 | Preorder, Inorder, Postorder Traversal Recursive and Iterative | Leetcode Binary Tree: Traverse a Tree | |
