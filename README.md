@@ -9,7 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
-| 55 | Word Search, Top K Frequent Element | Leetcode 79, Leetcode 347 | |
+| 55 | Word Search, Top K Frequent Elements | Leetcode 79, Leetcode 347 | |
 | 54 | Product of Array Except Self | Leetcode 238 | |
 | 53 | Push Dominoes | Leetcode 838 | |
 | 52 | Validate Binary Search Tree | Leetcode 98 | |
