@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 55 | Word Search | Leetcode 79 | |
 | 54 | Product of Array Except Self | Leetcode 238 | |
 | 53 | Push Dominoes | Leetcode 838 | |
 | 52 | Validate Binary Search Tree | Leetcode 98 | |
