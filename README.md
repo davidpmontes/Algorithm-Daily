@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 56 | Remove Linked in Elements | Leetcode 203 | |
 | 55 | Word Search, Top K Frequent Elements | Leetcode 79, Leetcode 347 | |
 | 54 | Product of Array Except Self | Leetcode 238 | |
 | 53 | Push Dominoes | Leetcode 838 | |
