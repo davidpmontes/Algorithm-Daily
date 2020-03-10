@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 59 | Implement Queue Using Stacks | Leetcode 232 | |
 | 58 | Kth Largest Element in an Array | Leetcode 215 | |
 | 57 | Move Element to End | AlgoExpert | |
 | 56 | Remove Linked in Elements | Leetcode 203 | |
