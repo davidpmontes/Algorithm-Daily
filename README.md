@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 61 | Group Anagrams | Leetcode 49 | |
 | 60 | Depth of Binary Tree, Intersection of Two Linked Lists, Sort Colors | Leetcode 104, Leetcode 160, Leetcode 75 | |
 | 59 | Implement Queue Using Stacks | Leetcode 232 | |
 | 58 | Kth Largest Element in an Array | Leetcode 215 | |
