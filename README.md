@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 63 | Invert Binary Tree | Leetcode 226 | |
 | 62 | Intersection of Two Arrays | Leetcode 349 | |
 | 61 | Group Anagrams, Minimum Size Subarray Sum, Maximum Average Subarray I | Leetcode 49, Leetcode 209, Leetcode 643 | |
 | 60 | Depth of Binary Tree, Intersection of Two Linked Lists, Sort Colors | Leetcode 104, Leetcode 160, Leetcode 75 | |
