@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 65 | Single Number | Leetcode 136 | |
 | 64 | Merge Intervals | Leetcode 56 | |
 | 63 | Invert Binary Tree | Leetcode 226 | |
 | 62 | Intersection of Two Arrays | Leetcode 349 | |
