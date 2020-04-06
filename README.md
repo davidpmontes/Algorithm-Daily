@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 66 | Happy Number, Maximum Subarray | Leetcode | |
 | 65 | Single Number | Leetcode 136 | |
 | 64 | Merge Intervals | Leetcode 56 | |
 | 63 | Invert Binary Tree | Leetcode 226 | |
