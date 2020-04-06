@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 68 | Best Time to Buy and Sell Stock II | Leetcode 122 | |
 | 67 | Move Zeroes | Leetcode | |
 | 66 | Happy Number, Maximum Subarray | Leetcode | |
 | 65 | Single Number | Leetcode 136 | |
