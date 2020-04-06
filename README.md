@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 67 | Move Zeroes | Leetcode | |
 | 66 | Happy Number, Maximum Subarray | Leetcode | |
 | 65 | Single Number | Leetcode 136 | |
 | 64 | Merge Intervals | Leetcode 56 | |
