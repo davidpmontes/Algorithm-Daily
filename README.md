@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 71 | Monotonic Array | AlgoExpert | |
 | 70 | Smallest Difference | AlgoExpert | |
 | 69 | Validate Subsequence | AlgoExpert | |
 | 68 | Best Time to Buy and Sell Stock II | Leetcode 122 | |
