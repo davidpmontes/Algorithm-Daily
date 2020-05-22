@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 72 | Min Height BST | AlgoExpert | |
 | 71 | Monotonic Array | AlgoExpert | |
 | 70 | Smallest Difference | AlgoExpert | |
 | 69 | Validate Subsequence | AlgoExpert | |
