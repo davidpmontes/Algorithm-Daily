@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 73 | Max Consecutive Ones | Leetcode | |
 | 72 | Min Height BST | AlgoExpert | |
 | 71 | Monotonic Array | AlgoExpert | |
 | 70 | Smallest Difference | AlgoExpert | |
