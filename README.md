@@ -9,6 +9,7 @@ Algorithm Daily
 
 | Day  | Task | From | Remarks |
 | --- | --- | --- | --- |
+| 74 | Find Numbers with Even Number of Digits | Leetcode | |
 | 73 | Max Consecutive Ones | Leetcode | |
 | 72 | Min Height BST | AlgoExpert | |
 | 71 | Monotonic Array | AlgoExpert | |
